@@ -1,6 +1,6 @@
-# Google Form Spammer (Kiraaab Edition)
+# Google Forms Spammer
 
-Este repositorio contiene dos scripts escritos en Python diseñados para automatizar el envío de respuestas a un formulario de Google. Su propósito es realizar múltiples envíos automáticos, útil para pruebas, demostraciones o fines educativos.
+Este repositorio contiene dos scripts escritos en Python diseñados para automatizar el envío de respuestas a un formulario de Google. Su propósito es realizar múltiples envíos automáticos.
 
 ## Contenido
 
