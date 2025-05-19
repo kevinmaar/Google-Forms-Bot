@@ -14,9 +14,3 @@ Este repositorio contiene dos scripts escritos en Python diseñados para automat
 
 - Python 3
 - Módulo `requests` (puedes instalarlo con `pip install requests`)
-
-## Advertencia ⚠️
-
-> Estos scripts fueron desarrollados con fines **educativos y de pruebas** únicamente.  
-> El mal uso de estas herramientas puede violar los Términos de Servicio de Google Forms u otras plataformas.  
-> **Úsalos bajo tu responsabilidad.**
